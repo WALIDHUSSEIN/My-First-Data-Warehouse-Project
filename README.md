@@ -23,10 +23,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 
 
-🚀 Projects  
-📊 Data Analytics  
-💻 Skills  
-📫 Contact Me
 
 
 
