@@ -22,7 +22,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 
-https://www.udemy.com/course/the-ultimate-microsoft-excel-online-course/learn/lecture/34314000#questions
+
 
 
 
