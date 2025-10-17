@@ -22,6 +22,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/dcc77f7b-4428-4a2e-8193-6dc02457ba47" />
 
 
 
